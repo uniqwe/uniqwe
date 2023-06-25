@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>malicious code Archives - Uniqwe</title>
+	<atom:link href="https://uniqwe.com/tag/malicious-code/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uniqwe.com/tag/malicious-code/</link>
+	<description>know and help</description>
+	<lastBuildDate>Sat, 01 Apr 2023 10:23:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://uniqwe.com/wp-content/uploads/2023/03/cropped-photo1679071723-32x32.png</url>
+	<title>malicious code Archives - Uniqwe</title>
+	<link>https://uniqwe.com/tag/malicious-code/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Malicious code: definition, different types and protection.</title>
+		<link>https://uniqwe.com/malicious-code-definition-different-types-and-protection/</link>
+		
+		<dc:creator><![CDATA[uniqwe]]></dc:creator>
+		<pubDate>Sat, 01 Apr 2023 10:15:12 +0000</pubDate>
+				<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[malicious code]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://uniqwe.com/?p=176</guid>
+
+					<description><![CDATA[<p>Malicious code, also known as malware, is a type of software that do harm or disrupt computer systems. Malware can take many different forms, including viruses, worms, and Trojan horses. These types of malicious code can cause significant damage to your computer and can compromise your personal and sensitive data. What is malicious code in&#8230;&#160;<a href="https://uniqwe.com/malicious-code-definition-different-types-and-protection/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Malicious code: definition, different types and protection.</span></a></p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/malicious-code-definition-different-types-and-protection/">Malicious code: definition, different types and protection.</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Malicious code, also known as malware, is a type of software that do harm or disrupt computer systems. Malware can take many different forms, including viruses, worms, and Trojan horses. These types of malicious code can cause significant damage to your computer and can compromise your personal and sensitive data.</p>
+
+
+
+<h2 class="wp-block-heading">What is malicious code in information security</h2>
+
+
+
+<h3 class="wp-block-heading">Malicious code definition</h3>
+
+
+
+<p>Malicious code (malware) is a set of computer instructions (commands to execute) of a program that violates the security policies. The <a href="https://uniqwe.com/malicious-hackers-who-are-they-and-how-to-protect-yourself/">malicious hackers</a> are the people who create this type of program and put their effort into running it on your computer in many ways.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://www.kaspersky.com/content/en-global/images/repository/isc/2017-images/malicious-programs-img-03.jpg" alt=""/></figure></div>
+
+
+<p>Malicious code can take various forms, from locally installed programs/software to scripting languages, browser add-ons/plug-ins, ActiveX controls, infected websites and many more. Malicious code can penetrate website defenses in many forms that can reach a single user, or a large volume of users.</p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Malware">Malware</a> can cause serious damage to your devices and networks, such as deleting or encrypting your files, stealing your credentials, spying on your activities, displaying unwanted ads, or even taking over your system. Therefore, it is essential to protect yourself from malicious code and prevent it from infecting your systems.</p>
+
+
+
+<h3 class="wp-block-heading">Common malware</h3>
+
+
+
+<p>In this article, we will go over some common malicious code examples and how they can harm your computer and data. Some common malicious code examples are:</p>
+
+
+
+<ul>
+<li>Virus: A virus is a type of malicious application that executes and replicates itself by injecting its code into other computer programs. Once the code injection is successful and the reproduction process is complete, the targeted areas of the system become infected. Viruses can corrupt or delete files, consume system resources, display unwanted messages or images, or even damage hardware components.</li>
+
+
+
+<li>Worm: A worm is a kind of malicious program that replicates itself to spread to as many devices as possible. Unlike viruses, worms do not need a host program to run. They can travel through networks and exploit vulnerabilities in operating systems or applications. Worms can cause network congestion, consume bandwidth, steal sensitive information, install backdoors or other malware, or launch denial-of-service attacks.</li>
+
+
+
+<li>Trojan horse: A Trojan horse, or simply Trojan, is an example of malicious code that is heavily reliant on social engineering to mislead its targets. Trojans are disguised as legitimate or useful software, but once installed, they perform malicious actions without the user&#8217;s knowledge or consent. Trojans can steal passwords, keystrokes, credit card numbers, private data, or even give remote access to hackers.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Different types of malicious code</h3>
+
+
+
+<ul>
+<li>Internet Bots: Also known as web robots, Internet bots are software applications created to run automated scripts. While some bots are benign or beneficial, such as search engine crawlers or chatbots, others are malicious and used for spamming, phishing, distributed denial-of-service (DDoS) attacks, or stealing information.</li>
+
+
+
+<li>Spyware/Adware: As its name might suggest, spyware is a type of malicious software trying to pry into targeted devices and gather sensitive information about a person or organization. Adware is a type of spyware that displays unwanted advertisements on the user&#8217;s screen, often based on their online behavior.</li>
+
+
+
+<li>Ransomware: Ransomware is a type of malicious software that encrypts files upon infection and holds them hostage in return for a ransom. Ransomware can affect individual users or entire organizations, locking them out of their critical data and systems until they pay the demanded amount or meet other conditions. Ransomware can also threaten to leak or delete the data if the ransom the victim will not pay.</li>
+
+
+
+<li>Logic Bombs: A logic bomb is a malicious string of code that is intentionally inserted into software and programmed to set off when certain requirements are met. For example, a logic bomb can be triggered by a specific date, time, event, or user action. Logic bombs can cause various types of damage, such as deleting files, corrupting data, displaying messages, or launching other malware.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Malicious code protection: how to prevent malware</h2>
+
+
+
+<p>Malicious code attacks can have serious consequences for individuals and organizations. Therefore, it is essential to implement effective security measures to prevent and mitigate malicious code threats. Some of the best practices include:</p>
+
+
+
+<ul>
+<li>Use a reputable antivirus software and keep it updated. Antivirus software can detect and remove known malware from your system, and prevent it from running in the first place.</li>
+
+
+
+<li>Avoid opening suspicious attachments or links in emails or messages. Malware can be delivered through phishing emails or messages that trick you into clicking on malicious attachments or links that download or execute malware on your system.</li>
+
+
+
+<li>Be careful when downloading or installing software from unknown sources. Malware usually appear in a software that you download or install from untrusted sources. Always verify the source and integrity of the software before downloading or installing it.</li>
+
+
+
+<li>Keep your operating system and applications updated. Malware can exploit vulnerabilities in your operating system and applications to infect your system or escalate its privileges. Updating your software regularly can fix these vulnerabilities and prevent malware from exploiting them.</li>
+
+
+
+<li>Use strong passwords and enable multi-factor authentication. Malware can try to guess or steal your passwords to access your accounts or systems. Using strong passwords and enabling multi-factor authentication can make it harder for malware to do so.</li>
+</ul>
+
+
+
+<p>To protect yourself from malicious code, you should also use a virtual private network (VPN) to encrypt your internet connection and backup your data regularly.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>Malicious code is a serious threat that can compromise your security and privacy. You should educate yourself about the latest threats and best practices for cybersecurity. Stay informed by attending seminars or webinars, reading articles, and watching videos. By taking these steps, you can protect yourself from malicious code and keep your computer and data safe.</p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/malicious-code-definition-different-types-and-protection/">Malicious code: definition, different types and protection.</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

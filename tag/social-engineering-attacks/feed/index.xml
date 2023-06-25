@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>social engineering attacks Archives - Uniqwe</title>
+	<atom:link href="https://uniqwe.com/tag/social-engineering-attacks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uniqwe.com/tag/social-engineering-attacks/</link>
+	<description>know and help</description>
+	<lastBuildDate>Sun, 02 Apr 2023 10:41:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://uniqwe.com/wp-content/uploads/2023/03/cropped-photo1679071723-32x32.png</url>
+	<title>social engineering attacks Archives - Uniqwe</title>
+	<link>https://uniqwe.com/tag/social-engineering-attacks/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Social engineering: definition, examples, methods, and solutions</title>
+		<link>https://uniqwe.com/social-engineering-definition-examples-methods-and-solutions/</link>
+		
+		<dc:creator><![CDATA[uniqwe]]></dc:creator>
+		<pubDate>Sun, 02 Apr 2023 10:18:20 +0000</pubDate>
+				<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[cyber security]]></category>
+		<category><![CDATA[social engineering]]></category>
+		<category><![CDATA[social engineering attacks]]></category>
+		<guid isPermaLink="false">https://uniqwe.com/?p=208</guid>
+
+					<description><![CDATA[<p>Social engineering is a form of cyberattack that relies on manipulating human psychology rather than exploiting technical vulnerabilities. It is one of the most common and effective ways for hackers to gain unauthorized access to sensitive data, systems or networks. In this blog post, we will explain what social engineering is, how it works, and&#8230;&#160;<a href="https://uniqwe.com/social-engineering-definition-examples-methods-and-solutions/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Social engineering: definition, examples, methods, and solutions</span></a></p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/social-engineering-definition-examples-methods-and-solutions/">Social engineering: definition, examples, methods, and solutions</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Social engineering is a form of cyberattack that relies on manipulating human psychology rather than exploiting technical vulnerabilities. It is one of the most common and effective ways for hackers to gain unauthorized access to sensitive data, systems or networks.</p>
+
+
+
+<p>In this blog post, we will explain what social engineering is, how it works, and what you can do to prevent it.</p>
+
+
+
+<h2 class="wp-block-heading">What is social engineering?</h2>
+
+
+
+<p>Definition of social engineering: the <strong>art of</strong> <strong>human hacking that</strong> <strong>deceive people</strong> into providing valuable information or access to that information or resource. The goal of social engineering is to trick someone into performing an action that benefits the attacker, such as clicking on a malicious link, opening an infected attachment, revealing a password, or granting access to a restricted area.</p>
+
+
+
+<p>Social engineering works <strong>based on the weakness of human nature</strong>. We are social creatures who want to be needed, trust people, avoid trouble, and save time. These are all good qualities, but they can also make us vulnerable to deception and manipulation. Social engineers use various techniques to appeal to our emotions, curiosity, greed, or fear, and make us do what they want:</p>
+
+
+
+<ul>
+<li>The desire to be helpful: Most people want to help others, especially if they seem to be in need or in trouble. A social engineer can use this to ask for favors, such as opening a door, clicking a link, or sharing a password.</li>
+
+
+
+<li>A tendency to trust people: People tend to believe what others say, especially if they appear to be authoritative, friendly or familiar. A social engineer can use this to impersonate someone else, such as a colleague, a friend, or an authority figure.</li>
+
+
+
+<li>The fear of getting into trouble: People may comply with requests that seem to come from a superior, a colleague or a law enforcement officer, even if their disguise are suspicious.</li>
+
+
+
+<li>The willingness to cut corners: People may take shortcuts or bypass security procedures to save time or effort, especially if they are under pressure or in a hurry.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">What are the goals of social engineering?</h2>
+
+
+
+<p>The goals of social engineering vary depending on the attacker&#8217;s motives and objectives. Some common goals are:</p>
+
+
+
+<ul>
+<li>Identity theft: The social engineer wants to steal your personal information and use it for fraudulent purposes, such as opening accounts in your name, applying for loans or credit cards, or making purchases online.</li>
+
+
+
+<li>Financial gain: The social engineer wants to access your financial accounts and transfer money to their own account, or use your credit card details to make purchases online.</li>
+
+
+
+<li>Data breach: The social engineer wants to access your confidential data and sell it to third parties, such as competitors, <a href="https://uniqwe.com/malicious-hackers-who-are-they-and-how-to-protect-yourself/">hackers</a>, or criminals. This could include trade secrets, customer information, employee records, or intellectual property.</li>
+
+
+
+<li>Sabotage: The social engineer wants to damage your reputation, business, or operations by deleting or altering your data, disrupting your services, or spreading false information.</li>
+
+
+
+<li>Espionage: The social engineer wants to spy on your activities and communications for political, military, or personal reasons such as revenge.</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://uniqwe.com/wp-content/uploads/2023/04/encryption.jpg" alt="phising in social enginnering" class="wp-image-204" width="385" height="385" srcset="https://uniqwe.com/wp-content/uploads/2023/04/encryption.jpg 1024w, https://uniqwe.com/wp-content/uploads/2023/04/encryption-300x300.jpg 300w, https://uniqwe.com/wp-content/uploads/2023/04/encryption-150x150.jpg 150w, https://uniqwe.com/wp-content/uploads/2023/04/encryption-768x768.jpg 768w" sizes="(max-width: 385px) 100vw, 385px" /></figure></div>
+
+
+<h2 class="wp-block-heading">Common examples of social engineering</h2>
+
+
+
+<p>Basically, there are two main examples of social engineering: human-based and computer-based.</p>
+
+
+
+<p>Human-based social engineering involves direct interaction between the attacker and the victim, such as phone calls, emails, or face-to-face conversations. The attacker may use dumpster diving, shoulder surfing, impersonation, posing as an important user (third-person authorization, technical support), or bribery to get the victim to comply.</p>
+
+
+
+<p>Computer-based social engineering involves using software or hardware to trick the victim into clicking on a malicious link, opening infected mail attachments, entering their credentials on a fake website, or downloading a rogue application under an interesting software or a pop-up window. The attacker may use phishing, spoofing, vishing, or ransomware to lure the victim.</p>
+
+
+
+<p>Phising (a type of computer-based social enginnering) is a common method used in social engineering, such as spam phising (they target many people randomly), and spear phising (you are targeted in the first place).&nbsp;Both types of social engineering can cause serious damage to individuals and organizations. They can result in identity theft, financial loss, data breach, reputation damage, or even physical harm. Therefore, it is crucial to be aware of the signs and techniques of social engineering and how to protect yourself and others from falling victim to it.</p>
+
+
+
+<h2 class="wp-block-heading">How do you prevent social engineering attacks</h2>
+
+
+
+<p>The best defense against social engineering is awareness and education. We need to be aware of the signs and methods of social engineering, and educate ourselves and others on how to avoid falling for them. Here are some <a href="https://www.forbes.com/sites/bradmoon/2016/01/14/how-to-avoid-becoming-a-victim-of-phishing/?sh=2d5ffee843f6">tips</a>:</p>
+
+
+
+<ul>
+<li>Always verify the identity and legitimacy of the person or organization contacting you. Do not rely on caller ID or email address alone. If in doubt, call back using a known number or visit the official website.</li>
+
+
+
+<li>Never give out personal or sensitive information over the phone or email unless you initiated the contact and you are sure of who you are talking to. Be wary of unsolicited requests for information or assistance.</li>
+
+
+
+<li>Don&#8217;t click on links or open attachments from unknown or suspicious sources. Always check the URL and the sender before clicking. If you are not sure, delete the message or mark it as spam.</li>
+
+
+
+<li>Never pay money or provide access to anyone who claims to have locked your device or files. This is a common ransomware scam that will not restore your data but only encourage more attacks.</li>
+
+
+
+<li>Always use strong and not popular passwords for your online accounts and change them regularly. Do not use the same password for multiple accounts or share them with anyone. Use two-factor authentication whenever possible.</li>
+
+
+
+<li>Never download or install software from untrusted sources. Always use reputable and updated antivirus and firewall software on your devices.</li>
+
+
+
+<li>Always be alert and cautious when dealing with strangers online or offline. <strong>Do not share too much personal or professional information on the Internet or real life</strong>. Limit what you post on social media and review your privacy settings. Do not leave your devices unattended or lend them to strangers.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>To prevent social engineering attacks, it is crucial for individuals and organizations to stay vigilant and aware of the signs of these attacks. The best defense is to educate yourself and members of your organization about cybersecurity awareness and best practices, such as not giving out personal information or passwords. Organizations should also implement strict security policies and procedures, including the use of multifactor authentication tools, regular employee training sessions, and constant monitoring of network activity.</p>
+
+
+
+<p>To conclude, social engineering is a potent cyber threat because it takes advantage of human weaknesses and vulnerabilities. By exploiting trust, helpfulness, the fear of being in trouble, and wanting to save time, social engineers obtain access to valuable information and resources, putting both individuals and organizations at risk. To protect yourself and your organization from social engineering attacks, it&#8217;s essential to stay vigilant and follow best security practices.</p>
+
+
+<div class="is-style-default wp-block-themeisle-blocks-sharing-icons" id="wp-block-themeisle-blocks-sharing-icons-a9af8303"><div class="social-icons-wrap"><a class="social-icon is-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://uniqwe.com/tag/social-engineering-attacks/feed/?simply_static_page=709&#038;title=social%20engineering%20attacks" target="_blank"><i class="fab fa-facebook-f"></i><span class="v-line"></span>Facebook</a><a class="social-icon is-twitter" href="http://twitter.com/share?url=https://uniqwe.com/tag/social-engineering-attacks/feed/?simply_static_page=709&#038;text=social%20engineering%20attacks" target="_blank"><i class="fab fa-twitter"></i><span class="v-line"></span>Twitter</a><a class="social-icon is-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https://uniqwe.com/tag/social-engineering-attacks/feed/?simply_static_page=709&#038;title=social%20engineering%20attacks" target="_blank"><i class="fab fa-linkedin-in"></i><span class="v-line"></span>Linkedin</a><a class="social-icon is-pinterest" href="https://pinterest.com/pin/create/button/?url=https://uniqwe.com/tag/social-engineering-attacks/feed/?simply_static_page=709&#038;description=social%20engineering%20attacks" target="_blank"><i class="fab fa-pinterest-p"></i><span class="v-line"></span>Pinterest</a><a class="social-icon is-tumblr" href="https://tumblr.com/share/link?url=https://uniqwe.com/tag/social-engineering-attacks/feed/?simply_static_page=709&#038;name=social%20engineering%20attacks" target="_blank"><i class="fab fa-tumblr"></i><span class="v-line"></span>Tumblr</a><a class="social-icon is-reddit" href="https://www.reddit.com/submit?url=https://uniqwe.com/tag/social-engineering-attacks/feed/?simply_static_page=709" target="_blank"><i class="fab fa-reddit-alien"></i><span class="v-line"></span>Reddit</a></div></div><p>The post <a rel="nofollow" href="https://uniqwe.com/social-engineering-definition-examples-methods-and-solutions/">Social engineering: definition, examples, methods, and solutions</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

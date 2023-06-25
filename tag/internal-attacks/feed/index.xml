@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>internal attacks Archives - Uniqwe</title>
+	<atom:link href="https://uniqwe.com/tag/internal-attacks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uniqwe.com/tag/internal-attacks/</link>
+	<description>know and help</description>
+	<lastBuildDate>Sat, 01 Apr 2023 02:28:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://uniqwe.com/wp-content/uploads/2023/03/cropped-photo1679071723-32x32.png</url>
+	<title>internal attacks Archives - Uniqwe</title>
+	<link>https://uniqwe.com/tag/internal-attacks/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cyber security: How can internal threats be prevented?</title>
+		<link>https://uniqwe.com/cyber-security-how-can-internal-threats-be-prevented/</link>
+		
+		<dc:creator><![CDATA[uniqwe]]></dc:creator>
+		<pubDate>Sat, 01 Apr 2023 02:28:06 +0000</pubDate>
+				<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[fraud and threats]]></category>
+		<category><![CDATA[internal attacks]]></category>
+		<category><![CDATA[internal threats]]></category>
+		<guid isPermaLink="false">https://uniqwe.com/?p=157</guid>
+
+					<description><![CDATA[<p>If you think your data is safe from hackers because you have a strong firewall and antivirus software, think again. You may be overlooking one of the biggest threats to your data security: your own employees. According to a study by IBM, 60% of cyberattacks in 2015 were carried out by insiders, either intentionally or&#8230;&#160;<a href="https://uniqwe.com/cyber-security-how-can-internal-threats-be-prevented/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Cyber security: How can internal threats be prevented?</span></a></p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/cyber-security-how-can-internal-threats-be-prevented/">Cyber security: How can internal threats be prevented?</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>If you think your data is safe from hackers because you have a strong firewall and antivirus software, think again. You may be overlooking one of the biggest threats to your data security: your own employees. According to a study by IBM, 60% of cyberattacks in 2015 were carried out by insiders, either intentionally or unintentionally. This means that the users who have access to your data may be the ones who are destroying it, either for personal gain, revenge, or sabotage. Fraud and theft are two types of internal attacks that can cause serious damage to data integrity and security.</p>
+
+
+
+<h2 class="wp-block-heading">Internal threats vs External threats</h2>
+
+
+
+<p>According to <a href="https://www.verizon.com/about/news/verizon-2020-data-breach-investigations-report">a report by Verizon</a>, 30% of data breaches in 2020 involved internal actors. These actors may have various motives for stealing or destroying data, such as financial gain, revenge, sabotage, or espionage. Unlike external attacks, internal attacks are often harder to detect and prevent, as the perpetrators may have legitimate credentials and permissions to access the data. An example of internal attack in cyber security is in 2016, a disgruntled employee of a web hosting company deleted 1,500 customer websites and backups, causing irreversible damage and forcing the company to shut down.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img decoding="async" src="https://cdn-cybersecurity.att.com/blog-content/Blog-Images/insider_threats.jpg" alt="" width="589" height="295"/><figcaption class="wp-element-caption">Beware internal threats</figcaption></figure></div>
+
+
+<p>One of the most common forms of internal threats is <a href="https://en.wikipedia.org/wiki/Internet_fraud">fraud</a> and information theft. This is when the users are not accidentally destroying data but are maliciously deleting, altering, or stealing the information for their own benefit. For example, an employee may steal customer data and sell it to a competitor, or a disgruntled worker may delete important files (such as in the <a href="https://uniqwe.com/category/database-management-systems/">Database management systems software</a>) to harm the company. Fraud and theft can cause serious damage to your reputation, revenue, and legal compliance.</p>
+
+
+
+<p>Unlike external threats, which can be detected by firewalls and antivirus software, internal threats are often harder to prevent and discover. The users are not accidentally destroying data but are maliciously destroying the information. They may have legitimate access to the data or use social engineering techniques to bypass security measures. They may also cover their tracks by deleting or modifying log files and other evidence.</p>
+
+
+
+<p>The internal attacks are very dangerous because they can compromise the accuracy, availability, and confidentiality of data. They can result in financial losses, legal liabilities, reputational damage, and customer dissatisfaction. They can also erode the trust and morale of the organization and its stakeholders.</p>
+
+
+
+<h2 class="wp-block-heading">Protection from internal attacks</h2>
+
+
+
+<p>So how can you prevent fraud and theft from happening in your organization? Here are some solutions that you can implement to protect your data from internal attacks:</p>
+
+
+
+<ul>
+<li><strong>Well-defined policies</strong>: The first step is to establish clear and enforceable policies for data access and usage. You should define who can access what data, for what purpose, and for how long. You should also specify the consequences for violating the policies, such as disciplinary actions or legal actions. You should communicate these policies to all your employees and make sure they understand and agree to them.</li>
+
+
+
+<li><strong>Data monitoring</strong>: The second step is to monitor your data activity and detect any anomalies or suspicious behaviors. You can use tools such as server log files, audit trails, or data loss prevention software to track who accessed what data, when, where, and how. You should also set up alerts or notifications for any unusual or unauthorized actions, such as mass deletion, modification, or download of data.</li>
+
+
+
+<li><strong>Data backup</strong>: The third step is to backup your data regularly and store it in a secure location. This way, you can recover your data in case of any loss or damage caused by internal attacks. You should also test your backup systems periodically and ensure that they are working properly.</li>
+
+
+
+<li><strong>Data encryption</strong>: The next step is to encrypt your data both at rest and in transit. Encryption is a process of transforming your data into an unreadable format that can only be decrypted with a key. This way, even if someone steals your data, they cannot use it without the key. You should use strong encryption algorithms and keys and store them separately from your data.</li>
+</ul>
+
+
+
+<ul>
+<li><strong>Data access control</strong>: The final step is to limit the access to your data based on the principle of least privilege. This means that you should only grant the minimum level of access that each user needs to perform their job. You should also revoke the access when the user no longer needs it or leaves the organization. You can use tools such as passwords, biometrics, tokens, or multi-factor authentication to verify the identity and authorization of each user.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>Fraud and theft are serious threats to data security and integrity. Organizations should adopt a proactive approach to protect their data from internal attacks by implementing well-defined policies, data backup and recovery, data encryption, data auditing, and data analytics. By following these steps, you can reduce the risk of fraud and theft and protect your data from internal threats. Remember that your data is one of your most valuable assets and you should treat it with care and respect. Don&#8217;t let your own employees become your enemies.</p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/cyber-security-how-can-internal-threats-be-prevented/">Cyber security: How can internal threats be prevented?</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

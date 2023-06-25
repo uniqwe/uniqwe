@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Distributed database systems Archives - Uniqwe</title>
+	<atom:link href="https://uniqwe.com/category/distributed-database-systems/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uniqwe.com/category/distributed-database-systems/</link>
+	<description>know and help</description>
+	<lastBuildDate>Fri, 24 Mar 2023 16:48:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://uniqwe.com/wp-content/uploads/2023/03/cropped-photo1679071723-32x32.png</url>
+	<title>Distributed database systems Archives - Uniqwe</title>
+	<link>https://uniqwe.com/category/distributed-database-systems/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Define and explain the different types of distribution transparency</title>
+		<link>https://uniqwe.com/different-types-of-distribution-transparency/</link>
+		
+		<dc:creator><![CDATA[uniqwe]]></dc:creator>
+		<pubDate>Thu, 16 Mar 2023 10:11:14 +0000</pubDate>
+				<category><![CDATA[Distributed database systems]]></category>
+		<guid isPermaLink="false">https://uniqwe.com/?p=8</guid>
+
+					<description><![CDATA[<p>In today&#8217;s digital age, data is the lifeblood of every organization. As businesses grow and expand, managing and accessing data becomes a critical issue. Distributed database systems have emerged as a solution to this problem. A distributed database system is a collection of databases that are geographically dispersed and interconnected by a network. However, managing&#8230;&#160;<a href="https://uniqwe.com/different-types-of-distribution-transparency/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Define and explain the different types of distribution transparency</span></a></p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/different-types-of-distribution-transparency/">Define and explain the different types of distribution transparency</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In today&#8217;s digital age, data is the lifeblood of every organization. As businesses grow and expand, managing and accessing data becomes a critical issue. Distributed database systems have emerged as a solution to this problem. A distributed database system is a collection of databases that are geographically dispersed and interconnected by a network. However, managing a distributed database system can be complex, and that is where distribution transparency comes in.</p>
+
+
+
+<h2 class="wp-block-heading">What is three dimensions of distribution transparency</h2>
+
+
+
+<p>Distribution transparency is the ability of a distributed database system to hide the details of data distribution and replication from users and applications. It allows users to access data as if it were stored in a single location, even though the data may be distributed across multiple locations. There are three dimensions of distribution transparency: location transparency, fragmentation transparency, and replication transparency.</p>
+
+
+
+<h3 class="wp-block-heading">Location Transparency</h3>
+
+
+
+<p>Location transparency refers to the ability of a distributed database system to hide the details of data location from users and applications. It allows users to access data without knowing where the data is physically located. This is achieved by assigning a global name to the data, which can be used to access it from any location without knowing its physical location.</p>
+
+
+
+<p>For example, consider a company that has a distributed database system with multiple servers located in different countries. With location transparency, employees can access data from any server without knowing its physical location.</p>
+
+
+
+<h3 class="wp-block-heading">Fragmentation Transparency</h3>
+
+
+
+<p>Fragmentation is the process of dividing a large database into smaller parts or fragments, which can be stored in different locations. Fragmentation transparency refers to the ability of a distributed database system to hide the details of data fragmentation from users and applications. It allows users to access data as if it were stored in a single location, even though the data may be fragmented across multiple locations.</p>
+
+
+
+<p>For example, consider a company that has offices in different cities. The company&#8217;s sales data may be fragmented into different parts based on the geographical location of the offices. However, with fragmentation transparency, employees in any office can access the sales data as if it were stored in a single location.</p>
+
+
+
+<h3 class="wp-block-heading">Replication Transparency</h3>
+
+
+
+<p>Replication is the process of creating multiple copies of data and distributing them across different locations. Replication transparency refers to the ability of a distributed database system to hide the details of data replication from users and applications. It allows users to access data without knowing how many copies of the data exist or where they are located.</p>
+
+
+
+<p>For example, consider a company that has replicated its customer data across multiple servers for redundancy purposes. With replication transparency, employees can access customer data without knowing how many copies of the data exist or where they are located.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>In conclusion, distribution transparency is an essential feature of distributed database systems. The three dimensions of distribution transparency &#8211; location transparency, fragmentation transparency, and replication transparency &#8211; ensure that data is consistently available and accessible across the distributed system. By implementing distribution transparency in their distributed database systems, businesses can improve their efficiency and productivity while ensuring that their valuable data is always available when needed.</p>
+<p>The post <a rel="nofollow" href="https://uniqwe.com/different-types-of-distribution-transparency/">Define and explain the different types of distribution transparency</a> appeared first on <a rel="nofollow" href="https://uniqwe.com/">Uniqwe</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
